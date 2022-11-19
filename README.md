@@ -5,3 +5,4 @@
 2. Binary Classification
 3. Binary/Multiclass Image Classification
 4. Recommender System
+5. Natural Language Processing
