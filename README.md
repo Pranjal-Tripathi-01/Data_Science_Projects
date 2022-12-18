@@ -6,3 +6,4 @@
 3. Binary/Multiclass Image Classification
 4. Recommender System
 5. Natural Language Processing
+6. Time Series Analysis
